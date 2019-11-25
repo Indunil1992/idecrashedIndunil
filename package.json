@@ -1,0 +1,8 @@
+{
+  "name": "idecrashedIndunil",
+  "version": "1.0.0",
+  "dependencies": {
+    "slappforge-sdk-redis": "0.0.3"
+  },
+  "devDependencies": {}
+}
